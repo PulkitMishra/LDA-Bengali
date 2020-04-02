@@ -1,0 +1,8 @@
+0: 0.045*"apUrba" + 0.021*"weoyZArI" + 0.020*"BArawI" + 0.008*"apUrbara" + 0.007*"weoyZArIra" + 0.006*"tAkA" + 0.004*"nIce" + 0.003*"BArawIra" + 0.003*"banXa" + 0.003*"bAsAyZa"
+1: 0.032*"rameSa" + 0.020*"ramA" + 0.010*"beNI" + 0.009*"rameSera" + 0.009*"jyATAimA" + 0.006*"ramAra" + 0.006*"gobinxa" + 0.005*"biSbeSbarI" + 0.005*"BEraba" + 0.004*"wora"
+2: 0.025*"mqNAla" + 0.009*"BAi" + 0.008*"apUrba" + 0.008*"xixi" + 0.007*"yawIna" + 0.006*"sejaxi" + 0.006*"Celera" + 0.006*"mAyZera" + 0.005*"CedZe" + 0.005*"apUrbara"
+3: 0.023*"acalA" + 0.022*"sureSa" + 0.012*"mahima" + 0.010*"acalAra" + 0.007*"kexArabAbu" + 0.007*"sureSera" + 0.004*"mahimera" + 0.003*"bqxXa" + 0.002*"sureSabAbu" + 0.002*"lAgilena"
+4: 0.029*"apUrba" + 0.016*"BArawI" + 0.012*"sumiwrA" + 0.011*"xeSera" + 0.006*"apUrbabAbu" + 0.005*"apUrbara" + 0.005*"mAnuRera" + 0.005*"oi" + 0.004*"lokati" + 0.004*"ApanAxera"
+5: 0.038*"mahima" + 0.023*"sureSa" + 0.012*"acalA" + 0.005*"pArabe" + 0.004*"seo" + 0.004*"niwe" + 0.004*"wAxera" + 0.004*"kara" + 0.004*"xaroyZAna" + 0.004*"sbAmIra"
+6: 0.017*"acalA" + 0.009*"mqNAla" + 0.008*"sureSa" + 0.006*"kexArabAbu" + 0.005*"apUrba" + 0.004*"gAdZi" + 0.003*"mahima" + 0.003*"sureSera" + 0.003*"acalAra" + 0.003*"mqNAlera"
+7: 0.033*"BArawI" + 0.021*"dAkwAra" + 0.011*"apUrba" + 0.008*"xAxA" + 0.005*"sumiwrA" + 0.005*"SaSI" + 0.005*"BArawIra" + 0.004*"wAxera" + 0.004*"xeSera" + 0.003*"apUrbara"

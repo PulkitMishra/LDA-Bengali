@@ -1,0 +1,4 @@
+0: 0.016*"rameSa" + 0.014*"ramA" + 0.008*"sureSa" + 0.006*"mahima" + 0.006*"dAkwAra" + 0.005*"jyATAimA" + 0.005*"rameSera" + 0.004*"wAxera" + 0.004*"BArawI" + 0.003*"ramAra"
+1: 0.016*"rameSa" + 0.009*"kexArabAbu" + 0.008*"ramA" + 0.007*"beNI" + 0.005*"rameSera" + 0.004*"gobinxa" + 0.004*"jyATAimA" + 0.004*"sureSa" + 0.003*"BEraba" + 0.003*"ramAra"
+2: 0.028*"BArawI" + 0.020*"apUrba" + 0.015*"dAkwAra" + 0.006*"xAxA" + 0.005*"apUrbara" + 0.004*"weoyZArI" + 0.004*"BArawIra" + 0.004*"xeSera" + 0.004*"sumiwrA" + 0.003*"SaSI"
+3: 0.027*"acalA" + 0.020*"sureSa" + 0.013*"mahima" + 0.010*"acalAra" + 0.007*"sureSera" + 0.005*"mqNAla" + 0.004*"mahimera" + 0.003*"kexArabAbu" + 0.003*"bqxXa" + 0.003*"gAdZi"

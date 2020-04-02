@@ -1,0 +1,3 @@
+0: 0.020*"sureSa" + 0.013*"ramA" + 0.011*"rameSa" + 0.009*"mahima" + 0.006*"sureSera" + 0.004*"mahimera" + 0.004*"beNI" + 0.004*"ramAra" + 0.003*"rameSera" + 0.003*"acalAra"
+1: 0.023*"BArawI" + 0.015*"dAkwAra" + 0.006*"xAxA" + 0.005*"sureSa" + 0.005*"kexArabAbu" + 0.004*"BArawIra" + 0.004*"sumiwrA" + 0.004*"xeSera" + 0.003*"apUrbabAbu" + 0.003*"SaSI"
+2: 0.017*"rameSa" + 0.007*"weoyZArI" + 0.006*"jyATAimA" + 0.005*"mqNAla" + 0.005*"BAi" + 0.005*"rameSera" + 0.004*"BEraba" + 0.004*"gobinxa" + 0.003*"xixi" + 0.003*"tAkA"
